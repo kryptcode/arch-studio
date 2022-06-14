@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+.paramour {
+    background-image: url('../public/assets/home/desktop/image-hero-paramour.jpg');
+}
+
+.seraph {
+    background-image: url('../public/assets/home/desktop/image-hero-seraph.jpg');
+}
+.federal {
+    background-image: url('../public/assets/home/desktop/image-hero-federal.jpg');
+}
+
+.trinity {
+    background-image: url('../public/assets/home/desktop/image-hero-trinity.jpg');
+}
