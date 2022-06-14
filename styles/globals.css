@@ -9,39 +9,39 @@
 }
 
 .seraph {
-    background: url('../public/assets/home/desktop/image-hero-seraph.jpg');
+    background: url('https://i.ibb.co/9rhyTVC/image-hero-seraph.jpg');
 }
 .federal {
-    background: url('../public/assets/home/desktop/image-hero-federal.jpg');
+    background: url('https://i.ibb.co/rF0V7hY/image-hero-federal.jpg');
 }
 
 .trinity {
-    background: url('../public/assets/home/desktop/image-hero-trinity.jpg');
+    background: url('https://i.ibb.co/tQyw4Db/image-hero-trinity.jpg');
 }
 
 .welcome-bg {
-    background: url('../public/assets/home/desktop/image-welcome.jpg');
+    background: url('https://i.ibb.co/6nbr7TZ/image-welcome.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .st-banner {
-    background: url('../public/assets/home/desktop/image-small-team.jpg');
+    background: url('https://i.ibb.co/QD4jYyF/image-small-team.jpg');
     filter: brightness(80%);
 }
 
 .del-sol {
-    background: url('../public/assets/portfolio/desktop/image-del-sol.jpg');
+    background: url('https://i.ibb.co/4Y7Xkmp/image-del-sol.jpg');
     background-size: cover;
 }
 
 .tower {
-    background: url('../public/assets/portfolio/desktop/image-228b.jpg');
+    background: url('https://i.ibb.co/j8KHBt5/image-228b.jpg');
     background-size: cover;
 }
 
 .proto {
-    background: url('../public/assets/portfolio/desktop/image-prototype.jpg');
+    background: url('https://i.ibb.co/MM7KwbF/image-prototype.jpg');
     background-size: cover;
 }
 
