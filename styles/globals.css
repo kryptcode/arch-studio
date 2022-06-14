@@ -28,3 +28,23 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.st-banner {
+    background-image: url('../public/assets/home/desktop/image-small-team.jpg');
+    filter: brightness(80%);
+}
+
+.del-sol {
+    background-image: url('../public/assets/portfolio/desktop/image-del-sol.jpg');
+    background-size: cover;
+}
+
+.tower {
+    background-image: url('../public/assets/portfolio/desktop/image-228b.jpg');
+    background-size: cover;
+}
+
+.proto {
+    background-image: url('../public/assets/portfolio/desktop/image-prototype.jpg');
+    background-size: cover;
+}

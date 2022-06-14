@@ -1,6 +1,9 @@
 import Head from 'next/head'
 import Header from '../components/Header'
+import Banner from '../components/Home/Banner'
+import Featured from '../components/Home/Featured'
 import Hero from '../components/Home/Hero'
+import Welcome from '../components/Home/Welcome'
 
 export default function Home() {
   return (
@@ -13,6 +16,9 @@ export default function Home() {
       
       <Header />
       <Hero />
+      <Welcome />
+      <Banner />
+      <Featured />
     </div>
   )
 }
