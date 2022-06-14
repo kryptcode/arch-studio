@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Footer from '../components/Footer'
 import Header from '../components/Header'
 import Banner from '../components/Home/Banner'
 import Featured from '../components/Home/Featured'
@@ -19,6 +20,7 @@ export default function Home() {
       <Welcome />
       <Banner />
       <Featured />
+      <Footer />
     </div>
   )
 }

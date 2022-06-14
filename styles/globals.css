@@ -54,6 +54,55 @@
     background-size: cover;
 }
 
+.seraph2 {
+    background-image: url('https://i.ibb.co/MhXZ3kC/image-seraph.jpg');
+    background-size: cover;
+}
+.eebox {
+    background-image: url('https://i.ibb.co/TBRDrtg/image-eebox.jpg');
+    background-size: cover;
+}
+.fed2 {
+    background-image: url('https://i.ibb.co/2SVt8pF/image-federal.jpg');
+    background-size: cover;
+}
+.del2 {
+    background-image: url('https://i.ibb.co/4Y7Xkmp/image-del-sol.jpg');
+    background-size: cover;
+}
+.proto2 {
+    background-image: url('https://i.ibb.co/MM7KwbF/image-prototype.jpg');
+    background-size: cover;
+}
+.twotwo {
+    background-image: url('https://i.ibb.co/j8KHBt5/image-228b.jpg');
+    background-size: cover;
+}
+.grand-ed {
+    background-image: url('https://i.ibb.co/nqpQCxd/image-edelweiss.jpg');
+    background-size: cover;
+}
+.netcry {
+    background-image: url('https://i.ibb.co/6tRfBLB/image-netcry.jpg');
+    background-size: cover;
+}
+.hypers {
+    background-image: url('https://i.ibb.co/JQZ7S8H/image-hypers.jpg');
+    background-size: cover;
+}
+.sxiv {
+    background-image: url('https://i.ibb.co/mbR8bxy/image-sxiv.jpg');
+    background-size: cover;
+}
+.trinity2 {
+    background-image: url('https://i.ibb.co/QNLjnTS/image-trinity.jpg');
+    background-size: cover;
+}
+.pp2 {
+    background-image: url('https://i.ibb.co/pX6YB8n/image-paramour.jpg');
+    background-size: cover;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
