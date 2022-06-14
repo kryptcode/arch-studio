@@ -22,3 +22,9 @@
 .trinity {
     background-image: url('../public/assets/home/desktop/image-hero-trinity.jpg');
 }
+
+.welcome-bg {
+    background-image: url('../public/assets/home/desktop/image-welcome.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
