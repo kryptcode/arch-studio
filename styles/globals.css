@@ -5,43 +5,43 @@
 }
 
 .paramour {
-    background: url('https://i.ibb.co/xHTZQts/image-hero-paramour.jpg');
+    background-image: url('https://i.ibb.co/xHTZQts/image-hero-paramour.jpg');
 }
 
 .seraph {
-    background: url('https://i.ibb.co/9rhyTVC/image-hero-seraph.jpg');
+    background-image: url('https://i.ibb.co/9rhyTVC/image-hero-seraph.jpg');
 }
 .federal {
-    background: url('https://i.ibb.co/rF0V7hY/image-hero-federal.jpg');
+    background-image: url('https://i.ibb.co/rF0V7hY/image-hero-federal.jpg');
 }
 
 .trinity {
-    background: url('https://i.ibb.co/tQyw4Db/image-hero-trinity.jpg');
+    background-image: url('https://i.ibb.co/tQyw4Db/image-hero-trinity.jpg');
 }
 
 .welcome-bg {
-    background: url('https://i.ibb.co/6nbr7TZ/image-welcome.jpg');
+    background-image: url('https://i.ibb.co/6nbr7TZ/image-welcome.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .st-banner {
-    background: url('https://i.ibb.co/QD4jYyF/image-small-team.jpg');
+    background-image: url('https://i.ibb.co/QD4jYyF/image-small-team.jpg');
     filter: brightness(80%);
 }
 
 .del-sol {
-    background: url('https://i.ibb.co/4Y7Xkmp/image-del-sol.jpg');
+    background-image: url('https://i.ibb.co/4Y7Xkmp/image-del-sol.jpg');
     background-size: cover;
 }
 
 .tower {
-    background: url('https://i.ibb.co/j8KHBt5/image-228b.jpg');
+    background-image: url('https://i.ibb.co/j8KHBt5/image-228b.jpg');
     background-size: cover;
 }
 
 .proto {
-    background: url('https://i.ibb.co/MM7KwbF/image-prototype.jpg');
+    background-image: url('https://i.ibb.co/MM7KwbF/image-prototype.jpg');
     background-size: cover;
 }
 
