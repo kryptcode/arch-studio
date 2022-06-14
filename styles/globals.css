@@ -6,17 +6,25 @@
 
 .paramour {
     background-image: url('https://i.ibb.co/xHTZQts/image-hero-paramour.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .seraph {
     background-image: url('https://i.ibb.co/9rhyTVC/image-hero-seraph.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .federal {
     background-image: url('https://i.ibb.co/rF0V7hY/image-hero-federal.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .trinity {
     background-image: url('https://i.ibb.co/tQyw4Db/image-hero-trinity.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .welcome-bg {
