@@ -1,50 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 * {
     font-family: 'Raleway', sans-serif;
 }
 
 .paramour {
-    background-image: url('../public/assets/home/desktop/image-hero-paramour.jpg');
+    background: url('../public/assets/home/desktop/image-hero-paramour.jpg');
 }
 
 .seraph {
-    background-image: url('../public/assets/home/desktop/image-hero-seraph.jpg');
+    background: url('../public/assets/home/desktop/image-hero-seraph.jpg');
 }
 .federal {
-    background-image: url('../public/assets/home/desktop/image-hero-federal.jpg');
+    background: url('../public/assets/home/desktop/image-hero-federal.jpg');
 }
 
 .trinity {
-    background-image: url('../public/assets/home/desktop/image-hero-trinity.jpg');
+    background: url('../public/assets/home/desktop/image-hero-trinity.jpg');
 }
 
 .welcome-bg {
-    background-image: url('../public/assets/home/desktop/image-welcome.jpg');
+    background: url('../public/assets/home/desktop/image-welcome.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .st-banner {
-    background-image: url('../public/assets/home/desktop/image-small-team.jpg');
+    background: url('../public/assets/home/desktop/image-small-team.jpg');
     filter: brightness(80%);
 }
 
 .del-sol {
-    background-image: url('../public/assets/portfolio/desktop/image-del-sol.jpg');
+    background: url('../public/assets/portfolio/desktop/image-del-sol.jpg');
     background-size: cover;
 }
 
 .tower {
-    background-image: url('../public/assets/portfolio/desktop/image-228b.jpg');
+    background: url('../public/assets/portfolio/desktop/image-228b.jpg');
     background-size: cover;
 }
 
 .proto {
-    background-image: url('../public/assets/portfolio/desktop/image-prototype.jpg');
+    background: url('../public/assets/portfolio/desktop/image-prototype.jpg');
     background-size: cover;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
