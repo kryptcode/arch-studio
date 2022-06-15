@@ -3,15 +3,15 @@
 const Hero = () => {
   return (
     <div className="my-12 relative ">
-        <div className="w-[80%] mx-auto flex flex-col md:flex-row space-y-10 md:space-y-0 items-end justify-between space-x-0 md:space-x-12 relative ">
+        <div className="w-full md:w-[80%] mx-auto flex flex-col md:flex-row space-y-10 md:space-y-0 items-end justify-between space-x-0 md:space-x-12 relative ">
             <div className='flex-1 '>
                 <img src="./assets/about/desktop/image-hero.jpg" alt="" />
             </div>
-            <div className='flex-1 px-0 md:px-12'>
+            <div className='flex-1 px-2 md:px-12'>
                 <h1 className="text-slate-300 hidden md:block text-[6rem] font-bold absolute top-0 left-[40%] ">
                     About
                 </h1>
-                <h2 className="text-6xl font-bold mb-6 ">
+                <h2 className="text-3xl md:text-6xl font-bold mb-6 ">
                     Your team of professionals
                 </h2>
                 <p className="text-gray-500">
